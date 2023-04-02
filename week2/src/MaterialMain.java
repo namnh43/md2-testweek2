@@ -10,7 +10,7 @@ public class MaterialMain {
         MaterialManager materialManager = new MaterialManager();
         Material thit1 = new Meat("thit1","thit bo", LocalDate.parse("2023-03-28"), 200, 1);
         Material thit2 = new Meat("thit2","thit heo", LocalDate.parse("2023-03-27"), 100, 1);
-        Material thit3 = new Meat("thit3","thit ga", LocalDate.parse("2023-03-26"), 150, 1);
+        Material thit3 = new Meat("thit3","thit ga", LocalDate.parse("2023-03-20"), 150, 1);
         Material thit4 = new Meat("thit4","thit ca", LocalDate.parse("2023-04-01"), 100, 2);
         Material thit5 = new Meat("thit5","thit thiu", LocalDate.parse("2023-03-01"), 50, 1);
         Material bot1 = new CrispyFlour("bot1","bot my", LocalDate.parse("2022-07-28"), 10, 2);
